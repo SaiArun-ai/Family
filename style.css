@@ -1,0 +1,15 @@
+.Heading{
+    background-color: rgb(184, 228, 175);
+    color: rgb(212, 173, 235);
+    text-align: center;
+    box-shadow: 5mm 1cm 1mm 3cm rgb(190, 199, 199);
+}
+.Heading:hover{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#Animated:hover{
+    font-variant: small-caps;
+}
+.DANGER:hover{
+    font-kerning:none;
+}
