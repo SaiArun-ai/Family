@@ -13,3 +13,23 @@
 .DANGER:hover{
     font-kerning:none;
 }
+canvas{
+    margin-top:200px;
+    box-shadow: 5px 5px 5px 2px rgb(160, 165, 117);
+}
+.ON{
+    box-shadow:1px 2px 2px 3px violet;
+}
+.OA{
+    box-shadow: 1px 2px 1px 3px darkorchid;
+}
+.Footer{
+    width: 100%;
+    text-align:center;
+    background-color: rgb(42, 221, 153);
+    color: floralwhite;
+    bottom: 0;
+    margin-bottom: 0px;
+    line-height: 3;
+    position: fixed;    
+}
